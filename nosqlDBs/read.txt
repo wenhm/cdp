@@ -1,0 +1,6 @@
+# 这个目录存放各种开源NoSql DB工具包
+
+	1. redis
+	2. memcached
+	3. mongoDB
+	4. kt
